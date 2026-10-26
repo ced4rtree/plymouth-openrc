@@ -1,4 +1,4 @@
-# Moved: See https://codeberg.org/ced4rtree/plymouth-openrc
+# Moved: See https://git.cebar.xyz/ced4rtree/plymouth-openrc
 
 # Plymouth for openrc
 
